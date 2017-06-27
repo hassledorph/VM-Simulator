@@ -2,4 +2,4 @@
 Vending Machine Simulator
 
 
-Written in C++.
+Written in C++ using Visual Studio as IDE.
